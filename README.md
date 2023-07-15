@@ -11,6 +11,7 @@ I can't guarantee it will work in future versions, since MrDrNose is working on 
 EDIT 15.7.2023 (dd/mm/yyyy): Yes, it still works in version demo 0.6.0
 
 When you boot up the game, Don't forget to reset days, events and objects. I made sure to do it before upload, but you should do it too.
+
 ![Image](evnupreset.png)
 
 ## [VOTV](https://mrdrnose.itch.io/votv)
