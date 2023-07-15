@@ -7,7 +7,7 @@ Just download this repository, extract the 's_Version_5_2_full_upgrades.sav' fil
 You can change the name of the file, but make sure the file has 's_' before your desired name. Or it will not work.
 
 Note that, the save file was created in version 0.5.1_2 and was reset 2 times in version 0.5.2.
-I can't guarantee it will work in future versions, since MrDrNose is working on big changes in d06.
+I can't guarantee it will work in future versions, since MrDrNose is working on big changes in d06.<br/>
 EDIT 15.7.2023 (dd/mm/yyyy): Yes, it still works in version demo 0.6.0
 
 When you boot up the game, Don't forget to reset days, events and objects. I made sure to do it before upload, but you should do it too.
