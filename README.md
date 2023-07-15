@@ -14,4 +14,4 @@ When you boot up the game, Don't forget to reset days, events and objects. I mad
 
 ![Image](evnupreset.png)
 
-## [VOTV](https://mrdrnose.itch.io/votv)
+[VOTV](https://mrdrnose.itch.io/votv)
